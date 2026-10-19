@@ -189,9 +189,9 @@
   "main_background": "#0d0e17",
   "secondary_background": "#171929",
   "button_background": "#5b70ff",
-  "button_text_color": "#e4e4f1",
+  "button_text_color": "#ffffff",
   "text_color": "#e4e4f1",
-  "color_highlight_text": "#e4e4f1",
+  "color_highlight_text": "#ffffff",
   "color_main_btn_text": "#e4e4f1",
   "cta_background": "#5b70ff",
   "logo": {
@@ -379,8 +379,8 @@
       "question": "Can I make payments in different currencies?"
     }
   ],
-  "_generated_at": "2026-10-19T13:59:08.552Z",
+  "_generated_at": "2026-10-19T14:05:48.496Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-19T13:59:09.230Z",
-  "_deploy_trigger": "koywrd"
+  "_last_deploy": "2026-10-19T14:05:49.258Z",
+  "_deploy_trigger": "ts0q8"
 }
